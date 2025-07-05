@@ -7,7 +7,7 @@
 - 📊 Scoreboard (Games Played, Wins, Losses)
 - 🎨 Colorful Interface with Emoji Icons
 
-This is a perfect mini-project for showcasing your Python + GUI development skills during placements.
+This is a perfect mini-project for showcasing your Python + GUI development skills .
 
 ---
 
